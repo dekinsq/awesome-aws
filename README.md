@@ -5,7 +5,7 @@ AWS相关实践文档
 ## 1.在亚马逊云科技上构建智能湖仓（概念入门）
 https://aws.amazon.com/cn/blogs/china/build-intelligent-lake-warehouse-on-amazon-cloud-technology/
 
-
+https://github.com/dekinsq/awesome-aws#:~:text=Commit%20time-,AWS%E6%95%B0%E6%8D%AE%E6%B9%96%E5%9C%A8%E7%BA%BF%E7%A0%94%E8%AE%A8%E4%BC%9A.pdf,-Add%20files%20via
 
 ## 2.开发人员指南-AWS SDK for Java2.x
 https://docs.aws.amazon.com/zh_cn/sdk-for-java/latest/developer-guide/home.html
